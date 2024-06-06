@@ -1,0 +1,45 @@
+#formulario {
+    padding: 1em;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    .form-control {
+        padding: 30px 3px 2px 3px;
+        border-radius: 0;
+        border: none;
+        border-bottom: 1px solid #d2cbcb;
+        &:focus {
+            border-bottom: 1px solid #4ac2cc!important;
+            box-shadow: none;
+        }
+    }
+    .form-label {
+        color: #38a4ad;
+        font-weight: 600;
+    }
+    .titulo {
+        letter-spacing: 12px;
+        color: #acda87;
+        text-transform: uppercase;
+        // font-size: 2.5rem;
+        font-size: calc(1.5rem + 0.5 * ((100vw - 20rem) / 60));
+        font-weight: 400;
+    }
+    .texto {
+        margin-top: 1rem;
+        margin-bottom: 0rem;
+        font-size: 1.1rem;
+        font-weight: 300;
+    }
+    .btn-page {
+        width: 17rem;
+        max-width: 90%;
+    }
+    .error-field{
+        color:red;
+    }
+
+}
+
+
+
+

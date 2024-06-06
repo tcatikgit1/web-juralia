@@ -1,0 +1,66 @@
+.whatsapp-button{
+    position: fixed;
+    bottom: 90px;
+    right: 15px;
+    z-index: 99;
+    background-color: #25d366;
+    border-radius: 50px;
+    color: #ffffff;
+    text-decoration: none!important;
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0.1em;
+    -webkit-box-shadow: 0px 0px 25px -6px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 25px -6px rgba(0,0,0,1);
+    box-shadow: 0px 0px 25px -6px rgba(0,0,0,1);
+    /*animation: effect 5s infinite ease-in;*/
+
+    img {
+        height: 60%;
+        width: 60%;
+    }
+}
+
+.whatsapp-button:hover{
+    color: #d9d9d9;
+}
+
+// Extra extra large
+@media (min-width: $xxl-min){
+
+}
+
+// Extra large
+@media (min-width: $xl-min) and (max-width: $xl-max){
+
+}
+
+// Large
+@media (min-width: 1000px) and (max-width: $lg-max){
+
+}
+
+// Medium
+@media (min-width: $md-min) and (max-width: 1000px) {
+
+}
+
+// Small
+@media (min-width: $sm-min) and (max-width: $sm-max) {
+
+}
+
+// Extra small and small
+@media (max-width: $sm-max) {
+
+}
+
+//Extra small
+@media (max-width: $xs-max) {
+
+}
