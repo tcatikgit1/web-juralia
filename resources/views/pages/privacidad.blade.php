@@ -35,7 +35,7 @@
                     <ul>
                         <li>Juralia Las Palmas</li>
                         <li>CIF: 42852517K</li>
-                        <li>Calle Sao Paulo, 17</li>
+                        <li>Avenida Juan XXIII, número 16, 2 D. 35004 Las Palmas de Gran Canaria</li>
                         <li>Las Palmas de Gran Canaria (35008)</li>
                         <li>Tlfno: 664 39 41 75</li>
                         <li>Mail: beatriz@juralia.es y info@juralia.es</li>

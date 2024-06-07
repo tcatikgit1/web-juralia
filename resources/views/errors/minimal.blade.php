@@ -85,10 +85,10 @@
                 <div class="mt-5">
                     <div class="d-flex justify-content-center ">
                         <div class="navbar-buttons d-md-flex d-block">
-                            <div class="navbar-button">
-                                <div class="navbar-button-ico navbar-button-ico-phone"></div>
-                                <span class="navbar-button-text">828 088 388</span>
-                            </div>
+{{--                            <div class="navbar-button">--}}
+{{--                                <div class="navbar-button-ico navbar-button-ico-phone"></div>--}}
+{{--                                <span class="navbar-button-text">828 088 388</span>--}}
+{{--                            </div>--}}
                             <div class="navbar-button">
                                 <div class="navbar-button-ico navbar-button-ico-mobile"></div>
                                 <span class="navbar-button-text">664 394 175</span>

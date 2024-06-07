@@ -8,10 +8,10 @@
         <div class="navbar-row1">
             <img src="/images/logos/logo-juralia-blanco.png" class="navbar-logo" width="50%" height="10%" alt="juralia logo">
             <div class="navbar-buttons d-md-flex d-none">
-                <div class="navbar-button">
-                    <div class="navbar-button-ico navbar-button-ico-phone"></div>
-                    <span class="navbar-button-text">828 088 388</span>
-                </div>
+{{--                <div class="navbar-button">--}}
+{{--                    <div class="navbar-button-ico navbar-button-ico-phone"></div>--}}
+{{--                    <span class="navbar-button-text">828 088 388</span>--}}
+{{--                </div>--}}
                 <div class="navbar-button">
                     <div class="navbar-button-ico navbar-button-ico-mobile"></div>
                     <span class="navbar-button-text">664 394 175</span>
@@ -44,10 +44,10 @@
         <li class="sidebar-item"><a @if(Route::currentRouteName() == "/") href="#formulario" @else href="/#formulario" @endif class="sidebar-link-item">Contacto</a></li>
     </ul>
     <div class="navbar-buttons flex-column position-absolute bottom-0">
-        <div class="navbar-button">
-            <div class="navbar-button-ico navbar-button-ico-phone"></div>
-            <span class="navbar-button-text">828 088 388</span>
-        </div>
+{{--        <div class="navbar-button">--}}
+{{--            <div class="navbar-button-ico navbar-button-ico-phone"></div>--}}
+{{--            <span class="navbar-button-text">828 088 388</span>--}}
+{{--        </div>--}}
         <div class="navbar-button">
             <div class="navbar-button-ico navbar-button-ico-mobile"></div>
             <span class="navbar-button-text">664 394 175</span>
